@@ -4,5 +4,9 @@ public class Demo {
 	void cls() {
 		System.out.println("Hello world");
 	}
+	void m() {
+		System.out.println("Hello world");
+	}
+	
 
 }
